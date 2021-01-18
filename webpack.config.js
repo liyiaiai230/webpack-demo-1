@@ -11,5 +11,15 @@ module.exports = {
     plugins: [new HtmlWebpackPlugin({
         title: '狸衣',
         template: 'src/assets/index.html'
-    })]
+    })],
+    module: {
+        rules: [
+            {
+                test: /\.css$/i,
+                use: ["style-loader", "css-loader"],
+            },
+        ],
+    },
 }
+
+
