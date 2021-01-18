@@ -1,3 +1,4 @@
+var HtmlWebpackPlugin = require('html-webpack-plugin');
 var path = require('path');
 
 module.exports = {
@@ -6,5 +7,9 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: '[name].[contenthash].js'
-    }
+    },
+    plugins: [new HtmlWebpackPlugin({
+        title: '狸衣',
+        template: 'src/assets/index.html'
+    })]
 }
