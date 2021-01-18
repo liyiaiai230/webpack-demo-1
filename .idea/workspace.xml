@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac3e96b4-cdca-40d5-806f-72c160a49074" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/x.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/x.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/x.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/x.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/x.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +52,7 @@
       <workItem from="1610961179106" duration="763000" />
       <workItem from="1610962956543" duration="1689000" />
       <workItem from="1610964768929" duration="1078000" />
+      <workItem from="1610967874160" duration="667000" />
     </task>
     <servers />
   </component>
