@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac3e96b4-cdca-40d5-806f-72c160a49074" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lazy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/y.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/z.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/x.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/x.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/x.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/x.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.base.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.base.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +75,7 @@
       <workItem from="1611048881553" duration="1622000" />
       <workItem from="1611050769455" duration="1677000" />
       <workItem from="1611052646099" duration="1690000" />
-      <workItem from="1611054458332" duration="758000" />
+      <workItem from="1611054458332" duration="1025000" />
     </task>
     <servers />
   </component>
